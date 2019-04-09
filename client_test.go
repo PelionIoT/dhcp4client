@@ -5,7 +5,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/WigWagCo/dhcp4client"
+	"github.com/armPelionEdge/dhcp4client"
 )
 
 func Test_GetInterfaces(test *testing.T) {

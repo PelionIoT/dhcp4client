@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/WigWagCo/dhcp4"
+	"github.com/armPelionEdge/dhcp4"
 )
 
 const (
